@@ -1,2 +1,12 @@
-# -Lightweight-Tamil-Music-Player
-A sleek and responsive music player built with Python, leveraging Tkinter for a clean GUI and Pygame for smooth audio playback. Enjoy your local Tamil songs with easy-to-use controls, playlist management, volume adjustment, and progress tracking.
+# 🎧 Python Music Player App
+
+🎶 A clean, lightweight music player built using Python (Tkinter + Pygame).
+💡 Play your local songs with a beautiful GUI, playlist view, and basic controls.
+
+Features:
+- Play, pause, stop, next, previous
+- Playlist from folder
+- Volume & progress bar
+- Built with love in Tamil 🇱🇰
+
+🚀 Made by N.M. Nuwahf
